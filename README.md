@@ -1,2 +1,1 @@
-# DEXADIKE2022ntz
-semuanya disini
+web scrapping, py, ipynb, numpy, pandas, api, etc
